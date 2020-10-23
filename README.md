@@ -6,5 +6,6 @@
 - Obtained a cluster with 80% good loans & explored its characteristics.
 
 Quick Links:
+- [Python file](https://github.com/Gianatmaja/Customer-Segmentation-on-Home-Loans/blob/main/Customer%20Segmentation%20on%20Home%20Loans.py)
 - [Jupyter notebook version](https://github.com/Gianatmaja/Customer-Segmentation-on-Home-Loans/blob/main/Customer%20Segmentation%20on%20Home%20Loans.ipynb)
-- HTML version (For quicker loading)
+*Jupyter notebook version recommended for better view, kindly reload if it fails on 1st try.
