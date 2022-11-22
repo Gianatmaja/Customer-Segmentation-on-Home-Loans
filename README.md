@@ -19,11 +19,21 @@ Alternatively, the following files are also available to view/ download in the r
 
 ### Results
 Some snapshots from the project can be found below:
+![Res1](### Results
+Some snapshots from the project can be found below:
 ![Res1](https://github.com/Gianatmaja/Statistical-Machine-Learning-in-Python/blob/main/Loan-Segmentation/images/Screenshot%202022-10-11%20at%2010.38.18%20AM.png)
+
+![Res2](https://github.com/Gianatmaja/Customer-Segmentation-on-Home-Loans/blob/main/images/Screenshot%202022-10-11%20at%2010.38.42%20AM.png)
+
+![Res3](https://github.com/Gianatmaja/Statistical-Machine-Learning-in-Python/blob/main/Loan-Segmentation/images/Screenshot%202022-10-11%20at%2012.16.26%20PM.png)
+
+### Conclusion
+As a conclusion, if the firm would like to launch a home loans campaign, they should focus on advertising it to married people living in either the semiurban and urban areas as these characteristics were found to be among the groups resulting in more good loans.
+)
 
 ![Res2](https://github.com/Gianatmaja/Statistical-Machine-Learning-in-Python/blob/main/Loan-Segmentation/images/Screenshot%202022-10-11%20at%2010.38.42%20AM.png)
 
-![Res3](https://github.com/Gianatmaja/Statistical-Machine-Learning-in-Python/blob/main/Loan-Segmentation/images/Screenshot%202022-10-11%20at%2012.16.26%20PM.png)
+![Res3](https://github.com/Gianatmaja/Customer-Segmentation-on-Home-Loans/blob/main/images/Screenshot%202022-10-11%20at%2012.16.26%20PM.png)
 
 ### Conclusion
 As a conclusion, if the firm would like to launch a home loans campaign, they should focus on advertising it to married people living in either the semiurban and urban areas as these characteristics were found to be among the groups resulting in more good loans.
