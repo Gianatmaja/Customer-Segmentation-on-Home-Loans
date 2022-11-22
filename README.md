@@ -1,4 +1,8 @@
 # Customer-Segmentation-on-Home-Loans
+This project involves analysing a home loans dataset to identify high-default clusters among customers. We will begin by performing EDA on the dataset, 
+before performing clustering to identify customer segments, and concluding our findings.
+
+### Summary
 - Obtained dataset from [kaggle](https://www.kaggle.com/gavincanacam/home-loan-predictions).
 - Performed EDA & imputed missing values using similar entries.
 - Used k-means clustering to identify clusters with different default risks.
@@ -13,3 +17,13 @@ Alternatively, the following files are also available to view/ download in the r
 - [Python file](https://github.com/Gianatmaja/Customer-Segmentation-on-Home-Loans/blob/main/Customer%20Segmentation%20on%20Home%20Loans.py)
 - [Jupyter notebook version](https://github.com/Gianatmaja/Customer-Segmentation-on-Home-Loans/blob/main/Customer%20Segmentation%20on%20Home%20Loans.ipynb)
 
+### Results
+Some snapshots from the project can be found below:
+![Res1](https://github.com/Gianatmaja/Statistical-Machine-Learning-in-Python/blob/main/Loan-Segmentation/images/Screenshot%202022-10-11%20at%2010.38.18%20AM.png)
+
+![Res2](https://github.com/Gianatmaja/Statistical-Machine-Learning-in-Python/blob/main/Loan-Segmentation/images/Screenshot%202022-10-11%20at%2010.38.42%20AM.png)
+
+![Res3](https://github.com/Gianatmaja/Statistical-Machine-Learning-in-Python/blob/main/Loan-Segmentation/images/Screenshot%202022-10-11%20at%2012.16.26%20PM.png)
+
+### Conclusion
+As a conclusion, if the firm would like to launch a home loans campaign, they should focus on advertising it to married people living in either the semiurban and urban areas as these characteristics were found to be among the groups resulting in more good loans.
