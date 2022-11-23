@@ -1,4 +1,4 @@
-# Customer-Segmentation-on-Home-Loans
+# Customer Segmentation on Home Loans
 This project involves analysing a home loans dataset to identify high-default clusters among customers. We will begin by performing EDA on the dataset, 
 before performing clustering to identify customer segments, and concluding our findings.
 
